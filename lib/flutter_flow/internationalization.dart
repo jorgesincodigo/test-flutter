@@ -64,7 +64,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'es': 'Registrarme',
       'en': '',
     },
-    'w9pkrbab': {
+    'kr3xtjv9': {
       'es': 'Home',
       'en': '',
     },
@@ -91,7 +91,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'es': 'Lorem ipsum dolor...',
       'en': '',
     },
-    'wcc2ur1n': {
+    '17ywx8a2': {
       'es': 'Home',
       'en': '',
     },
@@ -106,7 +106,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'es': 'Lorem ipsum dolor...',
       'en': '',
     },
-    '8x18lf51': {
+    '44xmap7l': {
       'es': 'Home',
       'en': '',
     },
@@ -121,14 +121,14 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'es': 'Enviar',
       'en': '',
     },
-    'rny9if1p': {
+    'rhnn369n': {
       'es': 'Home',
       'en': '',
     },
   },
   // PaginaB
   {
-    '3zwxdpb7': {
+    'xc671l00': {
       'es': 'Home',
       'en': '',
     },
@@ -139,7 +139,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'es': 'Stories',
       'en': '',
     },
-    'lt55h21s': {
+    '1yyhhl3t': {
       'es': 'Home',
       'en': '',
     },
@@ -186,7 +186,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'es': 'Dropdown',
       'en': '',
     },
-    '6cdpdcj5': {
+    'h2v4v873': {
       'es': 'Home',
       'en': '',
     },
@@ -205,7 +205,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'es': 'Agregar',
       'en': '',
     },
-    'trwz9ymi': {
+    '1jk2zv65': {
       'es': 'Home',
       'en': '',
     },
@@ -236,11 +236,11 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'es': 'Elige un pais',
       'en': '',
     },
-    '0tl0tuqb': {
+    '0zjlbfcw': {
       'es': 'Actualizar',
       'en': '',
     },
-    'hc7r4r37': {
+    'e8x3rsl5': {
       'es': 'Home',
       'en': '',
     },
@@ -287,7 +287,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'es': 'Dropdown',
       'en': '',
     },
-    'o2648i86': {
+    'hrcwck44': {
       'es': 'Home',
       'en': '',
     },
@@ -298,14 +298,14 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'es': 'Ingresa una nota o apunte',
       'en': '',
     },
-    'yrp6ko9h': {
+    '1mkxr22s': {
       'es': 'Home',
       'en': '',
     },
   },
   // LocalStateCopy
   {
-    '4pvh9yec': {
+    'iv7ussvu': {
       'es': 'Home',
       'en': '',
     },
@@ -324,11 +324,11 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'es': 'Hey Jorge',
       'en': '',
     },
-    'z8bd2r8i': {
+    'xskl3ewb': {
       'es': 'Share',
       'en': '',
     },
-    'yo4m0uvr': {
+    '8lyc9ge9': {
       'es': 'Share',
       'en': '',
     },
@@ -384,7 +384,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'es': '\$11.00',
       'en': '',
     },
-    'df8fgkat': {
+    '91x338e0': {
       'es': 'Home',
       'en': '',
     },
@@ -431,7 +431,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'es': 'Categoria productos',
       'en': '',
     },
-    '04g0ia7c': {
+    '50exjih3': {
       'es': 'Home',
       'en': '',
     },
@@ -442,7 +442,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'es': 'Paises',
       'en': '',
     },
-    'dmcjveyh': {
+    'n4t9i7ss': {
       'es': 'Api',
       'en': '',
     },
@@ -461,7 +461,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'es': 'Momeda',
       'en': '',
     },
-    'fdoi4klc': {
+    'bvvfuos4': {
       'es': 'Home',
       'en': '',
     },
@@ -476,7 +476,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'es': 'Agregar',
       'en': '',
     },
-    'tsbawgau': {
+    'dquio449': {
       'es': 'carrito',
       'en': '',
     },
@@ -503,7 +503,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'es': 'Precio: ',
       'en': '',
     },
-    'i3mcpm5x': {
+    'tmy2e3at': {
       'es': 'carrito',
       'en': '',
     },
@@ -514,7 +514,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'es': 'Map',
       'en': '',
     },
-    'd4kautts': {
+    'c91nvi74': {
       'es': 'Home',
       'en': '',
     },
@@ -533,7 +533,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'es': 'crear',
       'en': '',
     },
-    '4xlf0fgb': {
+    'ym0u1wbp': {
       'es': 'Home',
       'en': '',
     },
@@ -552,212 +552,212 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'es': 'agregar',
       'en': '',
     },
-    'sczhl4jk': {
+    'uc9dkjaq': {
       'es': 'Home',
       'en': '',
     },
   },
   // blurpage
   {
-    'rl6b50xd': {
+    'ry01lji7': {
       'es': 'Home',
       'en': '',
     },
   },
   // formulario
   {
-    'l23ueqyu': {
+    'kd1hxp49': {
       'es': 'Search events here...',
       'en': '',
     },
-    '1sapki1d': {
+    'mhzyqpze': {
       'es': 'Store/Location Name',
       'en': '',
     },
-    'h7g7zbgy': {
+    'x5f170aw': {
       'es': '123 Address St, City, ST',
       'en': '',
     },
-    'v3e795ib': {
+    'u2ly4nok': {
       'es': '1.7mi',
       'en': '',
     },
-    '0sg8a4xh': {
+    '9ag8ehq7': {
       'es': 'Store/Location Name',
       'en': '',
     },
-    'ley7kgue': {
+    '8mkd8gbf': {
       'es': '123 Address St, City, ST',
       'en': '',
     },
-    'd895rnmt': {
+    'oqgxe6jj': {
       'es': '1.7mi',
       'en': '',
     },
-    'gyxeds8r': {
+    '7e2szx4o': {
       'es': 'Store/Location Name',
       'en': '',
     },
-    '4pkpopf4': {
+    'joiw2cpz': {
       'es': '123 Address St, City, ST',
       'en': '',
     },
-    'ja0jicp8': {
+    'hqnb8rsj': {
       'es': '1.7mi',
       'en': '',
     },
-    '34a47ggy': {
+    'z16haalz': {
       'es': 'Store/Location Name',
       'en': '',
     },
-    'aznafsem': {
+    'i9w7b0l0': {
       'es': '123 Address St, City, ST',
       'en': '',
     },
-    '51tu2j56': {
+    'fi4vgsaj': {
       'es': '1.7mi',
       'en': '',
     },
-    '4e8pchd1': {
+    'dbe6f83d': {
       'es': 'Store/Location Name',
       'en': '',
     },
-    'ab553ffs': {
+    'essucsyp': {
       'es': '123 Address St, City, ST',
       'en': '',
     },
-    'fl23z2rt': {
+    'x8sty12s': {
       'es': '1.7mi',
       'en': '',
     },
-    'xy66noxb': {
+    'i1bwfpn7': {
       'es': 'Store/Location Name',
       'en': '',
     },
-    'nxyucslb': {
+    '27vbfrj2': {
       'es': '123 Address St, City, ST',
       'en': '',
     },
-    'yldxwzjs': {
+    'h6nzfqyj': {
       'es': '1.7mi',
       'en': '',
     },
-    'hhowyasr': {
+    'etdqo320': {
       'es': 'Map View',
       'en': '',
     },
-    'u4unhp3j': {
+    '7v4uwdbn': {
       'es': 'Shop',
       'en': '',
     },
   },
   // misItems
   {
-    't7prfh98': {
+    'a1k863nq': {
       'es': 'Items',
       'en': '',
     },
-    'n5o2uz6j': {
+    'fb6mc4cl': {
       'es': 'Nuevo Item',
       'en': '',
     },
-    'ci713cjh': {
+    'ajhlfihe': {
       'es': 'Ingresa Nombre',
       'en': '',
     },
-    '634qiaxx': {
+    '59t9ynva': {
       'es': 'Nombre',
       'en': '',
     },
-    '30atxod1': {
+    '7r320bsm': {
       'es': 'Ingresa Precio',
       'en': '',
     },
-    'evcm0y7r': {
+    'w85sbkaa': {
       'es': 'Precio',
       'en': '',
     },
-    'aqs5yma2': {
+    'wiy3gcez': {
       'es': 'Guardar',
       'en': '',
     },
-    '70erjb9i': {
+    '0gqg47j3': {
       'es': 'Home',
       'en': '',
     },
   },
   // listaproductos
   {
-    'hh84m13x': {
+    'hf1r3nrq': {
       'es': 'Lista de Productos',
       'en': '',
     },
-    'nbuu1otq': {
+    'vpwenxrl': {
       'es': 'Home',
       'en': '',
     },
   },
   // detallesProducto
   {
-    'h8fp2s3m': {
+    'vz9kcg2i': {
       'es': 'Precio:',
       'en': '',
     },
-    'wwgk8rqv': {
+    'pteqnwfh': {
       'es': 'Home',
       'en': '',
     },
   },
   // CrearDatos
   {
-    'aol83bnj': {
+    '0o6v01cr': {
       'es': 'Crear Articulo',
       'en': '',
     },
-    'bw1x8gow': {
+    'ond67c0j': {
       'es': 'Nuevo articulo',
       'en': '',
     },
-    'iiqyykg0': {
+    'ooeicax8': {
       'es': 'Nombre',
       'en': '',
     },
-    'wrdes5c3': {
+    '985ajlue': {
       'es': 'Ingrese un nombre',
       'en': '',
     },
-    't9h6pj52': {
+    '1gdqe6uf': {
       'es': 'Descripcion',
       'en': '',
     },
-    'av4yl4nn': {
+    '0t7nktw1': {
       'es': 'Ingrese una descripcion',
       'en': '',
     },
-    '88afmxq3': {
+    's1cqyqcn': {
       'es': 'Subir Imagen',
       'en': '',
     },
-    'kil3ta5y': {
+    'tdyv0qhs': {
       'es': 'Subir Producto',
       'en': '',
     },
-    '6v3v6bzm': {
+    'vy6x8d0g': {
       'es': 'Home',
       'en': '',
     },
   },
   // qrscan
   {
-    'fc6mdomd': {
+    'sfkftnbq': {
       'es': 'qr scan',
       'en': '',
     },
-    'aywk0ido': {
+    'wsfy89wg': {
       'es': 'Cancelar',
       'en': '',
     },
-    'zw9y4hzz': {
+    'xgnulguc': {
       'es': 'Home',
       'en': '',
     },
@@ -780,33 +780,33 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'es': 'iniciar sesion',
       'en': 'log in',
     },
-    'jj4kme3x': {
+    '3iuht6ab': {
       'es': 'Home',
       'en': '',
     },
   },
   // filepicker
   {
-    'z5nuk616': {
+    '86bvxqk9': {
       'es': 'Home',
       'en': '',
     },
   },
   // lecturaqr
   {
-    'juvipztn': {
+    'qmxcg939': {
       'es': 'QR',
       'en': '',
     },
-    'xdihsu3o': {
+    'lhsygexs': {
       'es': 'Button',
       'en': '',
     },
-    'a0i9krin': {
+    'n8rinll2': {
       'es': 'Cancelar',
       'en': '',
     },
-    'c93tk4ap': {
+    'kz4vevky': {
       'es': 'Home',
       'en': '',
     },
@@ -825,346 +825,346 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'es': 'Home',
       'en': '',
     },
-    'z2g7i0mb': {
+    '60335aix': {
       'es': 'Home',
       'en': '',
     },
   },
   // Playas
   {
-    'vfxbvcbt': {
+    'kz42f81f': {
       'es': 'Playa',
       'en': '',
     },
-    '21dkytty': {
+    'lf253ucc': {
       'es': 'Home',
       'en': '',
     },
   },
   // nuevaPlaya
   {
-    'fpql3qir': {
+    'pz1o1tsd': {
       'es': 'Nueva playa',
       'en': '',
     },
-    '625kplwg': {
+    'xxz22p5r': {
       'es': 'Nombre',
       'en': '',
     },
-    'nuawcpza': {
+    '7zwow7og': {
       'es': 'Guardar',
       'en': '',
     },
-    'wh1r4uvd': {
+    'qow6wqzd': {
       'es': 'Field is required',
       'en': '',
     },
-    'budo5uhr': {
+    '6vm7mlgp': {
       'es': 'Home',
       'en': '',
     },
   },
   // nplaya
   {
-    'wna8oug0': {
+    'rf7a52cc': {
       'es': 'Playa',
       'en': '',
     },
-    'j7hc9psj': {
+    'zs2xy7ar': {
       'es': 'Home',
       'en': '',
     },
   },
   // condicional
   {
-    'omprq07j': {
+    '0xpeo3pn': {
       'es': 'Sistolica',
       'en': '',
     },
-    'dei15pb6': {
+    'os02uz6f': {
       'es': 'Diastolica',
       'en': '',
     },
-    'vwzkjdyt': {
+    'bj72hgba': {
       'es': 'Calcular',
       'en': '',
     },
-    'wj051a7b': {
+    'n5vrzo2b': {
       'es': 'Resultado:',
       'en': '',
     },
-    'vp4xa76q': {
+    'gwd6noke': {
       'es': 'Condicional',
       'en': '',
     },
-    'z78l3pvg': {
+    '8um353sg': {
       'es': 'Home',
       'en': '',
     },
   },
   // megusta
   {
-    '6g96pka6': {
+    'nwscilxq': {
       'es': 'Productos',
       'en': '',
     },
-    'b2suyu1x': {
+    'g10l6boh': {
       'es': 'Favoritos',
       'en': '',
     },
-    '5j9f3kap': {
+    'dgknpo0p': {
       'es': 'Funcion Favoritos',
       'en': '',
     },
-    'xuhp4iok': {
+    '75lacgqb': {
       'es': 'Home',
       'en': '',
     },
   },
   // buscador
   {
-    '1ngqycuf': {
+    'vb55fydx': {
       'es': 'Buscar Producto',
       'en': '',
     },
-    'h4n8186n': {
+    'roq230bq': {
       'es': 'Buscador',
       'en': '',
     },
-    'voxt2ksw': {
+    'ta934j4u': {
       'es': 'Home',
       'en': '',
     },
   },
   // testanancho
   {
-    'qq01ulsv': {
+    '03j32fxv': {
       'es':
           'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ',
       'en': '',
     },
-    '5no5o0yy': {
+    'v56zhkzd': {
       'es': 'Page Title',
       'en': '',
     },
-    'plhvre6s': {
+    'appat6ru': {
       'es': 'Home',
       'en': '',
     },
   },
   // animacion
   {
-    'a694xx8f': {
+    'a16814hc': {
       'es': 'Page Title',
       'en': '',
     },
-    'kk84v41c': {
+    'q6rgye1r': {
       'es': 'Home',
       'en': '',
     },
   },
   // calendar
   {
-    '8m18a77p': {
+    '1t37etph': {
       'es': 'Page Title',
       'en': '',
     },
-    'vff6veov': {
+    'ovz6dp9a': {
       'es': 'Home',
       'en': '',
     },
   },
   // SwitchList
   {
-    '329zzcbt': {
+    '22c5oy1b': {
       'es': 'Title',
       'en': '',
     },
-    'zjoirzb0': {
+    'zyphysek': {
       'es': 'Subtitle',
       'en': '',
     },
-    'cgqotz7m': {
+    'r3l8pp76': {
       'es': 'Switch List',
       'en': '',
     },
-    'dax05xow': {
+    'fr5pjgxe': {
       'es': 'Home',
       'en': '',
     },
   },
   // logout
   {
-    'gm3ju74g': {
+    'afa5repm': {
       'es': 'Logout',
       'en': '',
     },
-    'bkjl9hos': {
+    'wd7toxpw': {
       'es': 'Your Phone Number',
       'en': '',
     },
-    'b9jhb963': {
+    'ralpl6nh': {
       'es': 'Please enter a valid number...',
       'en': '',
     },
-    'dm2rbtgh': {
+    'zwlb6k8b': {
       'es': 'Log out',
       'en': '',
     },
-    'ik89fwss': {
+    '2dpwxkoc': {
       'es': 'Home',
       'en': '',
     },
   },
   // Slidertest
   {
-    '1e3i0t24': {
+    'i6n2mbn8': {
       'es': 'Slider test',
       'en': '',
     },
-    'cr8gx6b2': {
+    '0soggt4p': {
       'es': 'Home',
       'en': '',
     },
   },
   // desdeGS
   {
-    '75vf6fqx': {
+    'ghnftcx0': {
       'es': 'Productos',
       'en': '',
     },
-    'a286mm6d': {
+    'c0c1wuio': {
       'es': 'Lorem ipsum dolor...',
       'en': '',
     },
-    'xfjeqw4s': {
+    'rnawxeyr': {
       'es': 'Crear Producto',
       'en': '',
     },
-    '36ei4s9q': {
+    'mtd3gx90': {
       'es': 'Nombre',
       'en': '',
     },
-    'z0k9aet3': {
+    'bq6dev7v': {
       'es': 'Precio',
       'en': '',
     },
-    'wawtuodo': {
+    'jzq5mbrq': {
       'es': 'Guardar',
       'en': '',
     },
-    '7s2bls69': {
+    '68abfemm': {
       'es': 'Mis productos',
       'en': '',
     },
-    '8y9nse17': {
+    '8e5iwwoz': {
       'es': 'Home',
       'en': '',
     },
   },
   // DatosdesdeGS
   {
-    '1sh096kb': {
+    '2fcqfsqg': {
       'es': 'Productos',
       'en': '',
     },
-    'kubxkg05': {
+    '8u9qd2u2': {
       'es': 'Nuevo',
       'en': '',
     },
-    'il7tdum3': {
+    'ggp5kx12': {
       'es': 'Nombre',
       'en': '',
     },
-    'j1u7zjw4': {
+    'yep563rl': {
       'es': 'Precio',
       'en': '',
     },
-    'yvosa9bc': {
+    'yhcl0ex6': {
       'es': 'Guardar',
       'en': '',
     },
-    '0jbuovhw': {
+    'ejd98eta': {
       'es': 'Mis Datos',
       'en': '',
     },
-    'wo6fp2oq': {
+    '5lo0xtwm': {
       'es': 'Home',
       'en': '',
     },
   },
   // inventarioqr
   {
-    '7r6fbgyj': {
+    'gxk06ysx': {
       'es': 'Escanner',
       'en': '',
     },
-    '5okdskb8': {
+    'zj2f6hwh': {
       'es': 'Escanear',
       'en': '',
     },
-    'hfjec14e': {
+    '6oezej7h': {
       'es': 'Cancelar',
       'en': '',
     },
-    'p40z68bu': {
+    'xxw3us0l': {
       'es': 'Home',
       'en': '',
     },
   },
   // qrdetalle
   {
-    'cal4q8fs': {
+    'n2da7j6s': {
       'es': 'Detalles',
       'en': '',
     },
-    't8o7zk6w': {
+    'ha4g57yq': {
       'es': 'Home',
       'en': '',
     },
   },
   // temporal
   {
-    'jvqbsgjo': {
+    'ys5clzen': {
       'es':
           'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
       'en': '',
     },
-    'bz7rdmyz': {
+    'e4x29vbw': {
       'es': 'Page Title',
       'en': '',
     },
-    'wxc9ssyo': {
+    'nt8qovbw': {
       'es': 'Home',
       'en': '',
     },
   },
   // locationpicker
   {
-    '13rbijn5': {
+    '9gkp4e9l': {
       'es': 'Select Location',
       'en': '',
     },
-    'qlfsrgph': {
+    'eii3g8m1': {
       'es': 'Location',
       'en': '',
     },
-    'merq5iky': {
+    'kgtmfxv0': {
       'es': 'Home',
       'en': '',
     },
   },
   // nuevoqr
   {
-    '5c9wnfeq': {
+    'bnamimuv': {
       'es': 'Nuevo link',
       'en': '',
     },
-    'uzqx0frr': {
+    'ar2t95or': {
       'es': 'ingrese link',
       'en': '',
     },
-    'pal36ema': {
+    '9kmxt4n5': {
       'es': 'Crear',
       'en': '',
     },
